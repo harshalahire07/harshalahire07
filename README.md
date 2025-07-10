@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🤝 I'm looking to collaborate on:<br>Innovative projects in web development, machine learning, and open-source contributions.<br><br>💡 I'm looking for help with:<br>Exploring best practices for implementing DevOps in web applications and UI/UX optimization.<br><br>📚 I'm currently learning:<br>Advanced Java, Django, DevOps practices, and Red Hat system administration.<br><br>💬 Ask me about:<br>IoT projects, Python and using Django with MySQL.<br><br>⚡ Fun fact:<br>I’m on a journey to master full-stack development and aim to create impactful tech solutions!
+🤝 I'm looking to collaborate on:<br>Innovative projects in web development, machine learning, and open-source contributions.<br><br>💡 I'm looking for help with:<br>Exploring best practices for implementing DevOps in web applications and UI/UX optimization.<br><br>📚 I'm currently learning:<br>Advanced Java, Django, DevOps practices, and Red Hat system administration.<br><br>💬 Ask me about:<br>IoT projects, Python and using Django with MySQL.<br><br>⚡ Fun fact:<br>I’m on a journey to master full-stack development and aim to create impactful tech solutions!
 
 
 ## 🌐 Socials:
