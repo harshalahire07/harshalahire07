@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Harshal Ahire
-
+# 👋 Hi, I'm Harshal Ahire  
 🎓 **Computer Science Engineering Student**  
-💻 **Aspiring Software Engineer | Intern | Tech Generalist**
+💻 **Aspiring Software Engineer | Full-Stack Intern | Tech Generalist**
 
 ---
 
 ## 💫 About Me
 
+I am a Computer Science Engineering student with a strong interest in backend development, full-stack web applications, and system fundamentals. I enjoy building structured, real-world projects while continuously improving my understanding of clean code, scalability, and industry best practices.
+
 - 🤝 **Open to Collaboration On:**  
   Academic projects, internships, beginner-friendly open-source contributions, and real-world problem-solving applications.
 
 - 💡 **Looking for Help With:**  
-  Understanding industry best practices, improving code quality, and learning how real production systems are built and maintained.
+  Industry best practices, production-grade architectures, code quality, and system design fundamentals.
 
 - 📚 **Currently Learning:**  
   Java, Django with MySQL, DevOps fundamentals, and Red Hat system administration.
@@ -20,7 +21,7 @@
   Python basics, Django projects, database-driven applications, IoT fundamentals, and Git/GitHub workflows.
 
 - ⚡ **Career Objective:**  
-  To gain strong fundamentals as a Computer Science engineer and grow through hands-on internship experience.
+  To build strong core fundamentals as a Computer Science engineer and grow through hands-on internship and project experience.
 
 ---
 
@@ -55,22 +56,15 @@
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshalahire07&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalahire07&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshalahire07&theme=dark&hide_border=true)
-
 ---
 
-## 🏆 GitHub Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=harshalahire07&theme=onedark&no-frame=true&margin-w=10)
-
----
 
 ## 👀 Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=harshalahire07&style=flat&color=blue)
 
 ---
 
-⭐ *Always learning, always improving.*
+⭐ *Always learning. Always improving.*
