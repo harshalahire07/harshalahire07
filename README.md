@@ -55,7 +55,6 @@ I am a Computer Science Engineering student with a strong interest in backend de
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshalahire07&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalahire07&layout=compact&theme=dark&hide_border=true)
 
 ---
