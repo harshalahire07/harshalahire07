@@ -53,13 +53,6 @@ I am a Computer Science Engineering student with a strong interest in backend de
 
 ---
 
-## 📊 GitHub Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalahire07&layout=compact&theme=dark&hide_border=true)
-
----
-
-
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshalahire07&style=flat&color=blue)
