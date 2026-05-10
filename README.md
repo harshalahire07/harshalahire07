@@ -18,7 +18,7 @@ I am a Computer Science Engineering student with a strong interest in backend de
   Java, Django with MySQL, DevOps fundamentals, and Red Hat system administration.
 
 - 💬 **Ask Me About:**  
-  Python basics, Django projects, database-driven applications, IoT fundamentals, and Git/GitHub workflows.
+  Python , Django projects, database-driven applications, IoT fundamentals, RESTfull API's, and Git/GitHub workflows.
 
 - ⚡ **Career Objective:**  
   To build strong core fundamentals as a Computer Science engineer and grow through hands-on internship and project experience.
