@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshal Ahire</h1>
 
 <h3 align="center">
-Final Year Computer Science Engineering Student<br>
-Data Analytics • Backend Development • Python
+Final Year Computer Science Engineering Student
 </h3>
 
 <p align="center">
-Building practical software, analyzing data, and continuously learning through real-world projects.
+<strong>Data Analytics • Backend Development • Python</strong>
+</p>
+
+<p align="center">
+Building practical software, analyzing data, and solving real-world problems through technology.
 </p>
 
 <p align="center">
@@ -15,57 +18,82 @@ Building practical software, analyzing data, and continuously learning through r
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a Final Year Computer Science Engineering student passionate about solving real-world problems through software and data.
+I'm a **Final Year Computer Science Engineering student** with experience in **Backend Development** and a growing specialization in **Data Analytics**.
 
-My journey started with backend development using Python and Django, where I built full-stack applications and gained practical industry experience during my internship. Recently, I've been expanding into Data Analytics by working with SQL, Excel, Power BI, and Python to build interactive dashboards and derive meaningful insights from data.
+I enjoy building practical applications, interactive dashboards, and scalable software using Python, SQL, Excel, Power BI, and Django. I'm always looking for opportunities to learn, collaborate, and solve meaningful real-world problems.
 
-I'm currently looking for internship opportunities where I can contribute, learn from experienced professionals, and continue building impactful projects.
+I'm currently seeking internship opportunities where I can contribute, grow, and gain hands-on industry experience.
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- 📊 Data Analytics using SQL, Excel & Power BI
+- 📊 Data Analytics with **SQL, Excel & Power BI**
 - 🐍 Python for Automation & Data Analysis
-- 🌐 Backend Development using Django
+- 🌐 Backend Development with Django
 - 🗄 Database Design & Optimization
-- 📈 Building portfolio-worthy analytics projects
-- 🤝 Open to internship opportunities
+- 📈 Building portfolio-quality analytics projects
+- 🤝 Open to Internship Opportunities
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Healthcare Analytics Dashboard
-Interactive Excel dashboard analyzing 10,000+ emergency room patient records using Power Query, Pivot Tables, KPI Cards, Charts, Slicers and Conditional Formatting.
+## 📊 Healthcare Analytics Dashboard
 
----
+**Tech Stack**
 
-### 📈 Power BI Business Dashboard
-Interactive dashboard built using Power BI, DAX, Power Query and Data Modeling to transform raw business data into actionable insights.
+Excel • Power Query • Pivot Tables • KPI Cards • Charts
 
----
-
-### 🩺 DrPrecaution
-AI-powered healthcare web application developed using Flask, SQLAlchemy, SQLite/PostgreSQL and Cohere API integration.
+Analyzed **10,000+ emergency room patient records** to create an interactive dashboard highlighting patient demographics, waiting times, referrals, and operational KPIs.
 
 ---
 
-### 🌱 Smart Hydroponics Monitoring System
-IoT-based monitoring system using ESP32, sensors and Blynk for automated hydroponic farming.
+## 📈 Power BI Business Dashboard
+
+**Tech Stack**
+
+Power BI • DAX • Power Query • Data Modeling
+
+Designed an interactive dashboard that transforms raw business data into meaningful insights through KPIs and visual analytics.
 
 ---
 
-### 📚 BookFlow
-Full-stack peer-to-peer book marketplace built with Django, PostgreSQL, JWT Authentication and WebSocket support.
+## 🩺 DrPrecaution
+
+**Tech Stack**
+
+Flask • SQLAlchemy • SQLite • PostgreSQL • Cohere API
+
+Developed an AI-powered healthcare web application capable of providing intelligent medical assistance through LLM integration.
 
 ---
 
-## 💻 Tech Stack
+## 🌱 Smart Hydroponics Monitoring System
 
-### Programming Languages
+**Tech Stack**
+
+ESP32 • Arduino • IoT • Blynk
+
+Designed an IoT-based monitoring system for automated hydroponic farming with real-time environmental monitoring.
+
+---
+
+## 📚 BookFlow
+
+**Tech Stack**
+
+Django • PostgreSQL • JWT • WebSockets
+
+Built a peer-to-peer book marketplace with authentication, real-time communication, and secure backend architecture.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,26 +101,26 @@ Full-stack peer-to-peer book marketplace built with Django, PostgreSQL, JWT Auth
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Data Analytics
+## Data Analytics
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Backend Development
+## Backend Development
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Databases
+## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -101,38 +129,39 @@ Full-stack peer-to-peer book marketplace built with Django, PostgreSQL, JWT Auth
 
 ---
 
-## 📈 GitHub Statistics
+# 🏆 Certifications
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalahire07&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalahire07&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalahire07&theme=github-dark&hide_border=true"/>
-
-</p>
+- IBM SQL Certification
+- Excel for Data Analysis
+- Power BI Course Completion (2025)
 
 ---
 
-## 🤝 Connect With Me
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalahire07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalahire07&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+> **Note:** If the statistics don't load immediately, GitHub's cache or the free stats service may be temporarily unavailable. This is a known limitation of the external service, not an error in your README.
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/harshal-ahire07/">
+<a href="https://www.linkedin.com/in/harshal-ahire07/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://harshal-ahire.vercel.app/">
+<a href="https://harshal-ahire.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:harshddahire@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -141,6 +170,6 @@ Full-stack peer-to-peer book marketplace built with Django, PostgreSQL, JWT Auth
 
 <p align="center">
 
-> *"Consistency beats intensity. Keep building."*
+*"Consistency beats intensity. Consistency builds careers."*
 
 </p>
