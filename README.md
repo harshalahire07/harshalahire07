@@ -133,18 +133,7 @@ Built a peer-to-peer book marketplace with authentication, real-time communicati
 
 - IBM SQL Certification
 - Excel for Data Analysis
-- Power BI Course Completion (2025)
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalahire07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalahire07&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-> **Note:** If the statistics don't load immediately, GitHub's cache or the free stats service may be temporarily unavailable. This is a known limitation of the external service, not an error in your README.
+- Power BI Course Completion 
 
 ---
 
